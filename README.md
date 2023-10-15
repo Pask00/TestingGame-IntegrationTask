@@ -11,9 +11,9 @@ Our task was to integrate the other tasks and microservices - created by other t
 working product.
 Others goals we have achieved are:
 - Enhanced the security (authentication, authorization) and management of APIs by
-implementing the API Gateway
+implementing the API Gateway component
 - Increased consistency by serving pages from the same domain and port by
-implementing a reverse proxy
+implementing a reverse proxy (the UI Gateway component)
 
 
 # INSTALLATION GUIDE
