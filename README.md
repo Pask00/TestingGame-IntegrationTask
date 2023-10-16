@@ -1,12 +1,12 @@
 # Testing Game - Integration Task
-This is an Educational Game for "Man vs automated Testing Tools challenges", part of the ENACTEST project.
-It has been realized during the Software Architecture Design course at University of Naples Federico II.
+This is an Educational Game for "Man vs automated Testing Tools challenges", part of the ENACTEST project.<br>
+It has been realized during the Software Architecture Design course at University of Naples Federico II: https://github.com/Testing-Game-SAD-2023
 
 Team Components:
 - Pasquale Riello - M63/1516
 - Lorenzo Pannone - M63/1492
 
-# WHAT WE HAVE DONE
+# What we have done
 Our task was to integrate the other tasks and microservices - created by other teams - into the final
 working product.
 Others goals we have achieved are:
@@ -15,8 +15,18 @@ implementing the API Gateway component
 - Increased consistency by serving pages from the same domain and port by
 implementing a reverse proxy (the UI Gateway component)
 
+More specifically, we have integrated the following tasks:
+- Task 1: https://github.com/Testing-Game-SAD-2023/T1-G11
+- Task 2-3: https://github.com/Testing-Game-SAD-2023/T23-G1
+- Task 4: https://github.com/Testing-Game-SAD-2023/T4-G18
+- Task 5: https://github.com/Testing-Game-SAD-2023/T5-G2
+- Task 6: https://github.com/Testing-Game-SAD-2023/T6-G12
+- Task 7: https://github.com/Testing-Game-SAD-2023/T7-G31
+- Task 9: https://github.com/Testing-Game-SAD-2023/T9-G19
 
-# INSTALLATION GUIDE
+![FinalComponentDiagram](https://github.com/Pask00/TestingGame-IntegrationTask/assets/25242319/bd93d348-5ab2-434d-a8d9-db095d7e6a2b)
+
+# Installation Guide
 
 ## STEP 1
 The script "installer.bat" should be started. The following operations will be performed:
